@@ -12,7 +12,7 @@ namespace GitWorkflowTests
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Functionality 2.");
+            Console.WriteLine("Functionality 2 Improved.");
 
             Console.WriteLine("Press any key to close...");
 
