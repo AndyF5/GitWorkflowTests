@@ -14,6 +14,8 @@ namespace GitWorkflowTests
 
             Console.WriteLine("Functionality 2 Improved.");
 
+            Console.WriteLine("Release Fix.");
+
             Console.WriteLine("Press any key to close...");
 
             Console.ReadKey();
