@@ -16,6 +16,8 @@ namespace GitWorkflowTests
 
             Console.WriteLine("Release Fix.");
 
+            Console.WriteLine("HotFix!");
+
             Console.WriteLine("Press any key to close...");
 
             Console.ReadKey();
